@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Oleg Study javascrypt",
+  "mongoUri": "mongodb+srv://Oleg:ce6053@cluster0.qdttm.azure.mongodb.net/newPro?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
